@@ -1,0 +1,14 @@
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\bin\Debug\net8.0\Hollo World - First Program.exe
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\bin\Debug\net8.0\Hollo World - First Program.deps.json
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\bin\Debug\net8.0\Hollo World - First Program.runtimeconfig.json
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\bin\Debug\net8.0\Hollo World - First Program.dll
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\bin\Debug\net8.0\Hollo World - First Program.pdb
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.AssemblyInfoInputs.cache
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.AssemblyInfo.cs
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.csproj.CoreCompileInputs.cache
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.dll
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\refint\Hollo World - First Program.dll
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.pdb
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\Hollo World - First Program.genruntimeconfig.cache
+C:\Users\elisa\source\repos\Players Guide 4.th edition\Hollo World - First Program\obj\Debug\net8.0\ref\Hollo World - First Program.dll
