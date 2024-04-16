@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\source\\repos\\Players Guide 4.th edition\\Hollo World - First Program\\Hollo World - First Program.csproj": {}
+    "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\source\\repos\\Players Guide 4.th edition\\Hollo World - First Program\\Hollo World - First Program.csproj": {
+    "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Players Guide 4.th edition\\Hollo World - First Program\\Hollo World - First Program.csproj",
+        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj",
         "projectName": "Hollo World - First Program",
-        "projectPath": "C:\\Users\\elisa\\source\\repos\\Players Guide 4.th edition\\Hollo World - First Program\\Hollo World - First Program.csproj",
+        "projectPath": "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj",
         "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\source\\repos\\Players Guide 4.th edition\\Hollo World - First Program\\obj\\",
+        "outputPath": "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
