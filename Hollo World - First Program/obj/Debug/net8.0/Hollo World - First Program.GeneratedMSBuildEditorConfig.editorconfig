@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hollo_World___First_Program
-build_property.ProjectDir = C:\Users\elisa\source\repos\Players-Guide-4.th-edition\Hollo World - First Program\
+build_property.ProjectDir = /workspaces/My-solutions-Players-Guide-5.th-edition/Hollo World - First Program/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

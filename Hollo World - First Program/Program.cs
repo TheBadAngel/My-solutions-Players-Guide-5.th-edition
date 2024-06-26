@@ -10,7 +10,7 @@
             Console.WriteLine("Hello, Guys!");
             Console.WriteLine("My Name is TheBadAngel");
             Console.WriteLine("It is nice to meet you :)");
-            Console.WriteLine("I am larning to program\n");
+            Console.WriteLine("I am learning to program\n");
             
 
 
@@ -52,16 +52,6 @@
             //   No, but you can store new informatin in a variable thats has been used before.
             //4. Witch of the following are legal C# variables names? answer, 1stValue, value1, $message, delete-me, delete_me, PI
             //   answer, value1, delete-me, PI
-
-
-
-            //Level 6
-
-
-
-
-
-
 
 
 

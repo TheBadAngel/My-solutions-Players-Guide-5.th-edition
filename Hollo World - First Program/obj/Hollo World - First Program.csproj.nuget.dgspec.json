@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj": {}
+    "/workspaces/My-solutions-Players-Guide-5.th-edition/Hollo World - First Program/Hollo World - First Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj": {
+    "/workspaces/My-solutions-Players-Guide-5.th-edition/Hollo World - First Program/Hollo World - First Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj",
+        "projectUniqueName": "/workspaces/My-solutions-Players-Guide-5.th-edition/Hollo World - First Program/Hollo World - First Program.csproj",
         "projectName": "Hollo World - First Program",
-        "projectPath": "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\Hollo World - First Program.csproj",
-        "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\source\\repos\\Players-Guide-4.th-edition\\Hollo World - First Program\\obj\\",
+        "projectPath": "/workspaces/My-solutions-Players-Guide-5.th-edition/Hollo World - First Program/Hollo World - First Program.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/My-solutions-Players-Guide-5.th-edition/Hollo World - First Program/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
