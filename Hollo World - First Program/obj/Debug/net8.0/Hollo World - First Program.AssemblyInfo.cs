@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hollo World - First Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02273d9a525d4eb0fe45cb877c9172025df44de5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7b791e25ec77e9da148d948fcc6ea99473000b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hollo World - First Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hollo World - First Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
