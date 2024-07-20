@@ -3,9 +3,8 @@ using System.Security.Cryptography.X509Certificates;
 namespace Hollo_World___First_Program
 {
     internal class TheVariableShop
-    {
-        static void Main()
-        {
+    {/*
+       
         char _char = 'Ø';
         string _string = "Jeg er en string";
         bool _bool = true;
@@ -22,6 +21,6 @@ namespace Hollo_World___First_Program
 
 
             Console.ReadLine();
-        }
+     */   
     }
 }

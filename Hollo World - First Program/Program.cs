@@ -1,13 +1,13 @@
 ﻿namespace Hollo_World___First_Program
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            //Level 1 and 2 is introduction and intall of VS.
+    internal class Class2
+    {/*
 
-            //Level 3 challenge 1
-            Console.WriteLine("Hello, Guys!");
+        //Level 1 and 2 is introduction and intall of VS.
+
+        //Level 3 challenge 1
+
+        .WriteLine("Hello, Guys!");
             Console.WriteLine("My Name is TheBadAngel");
             Console.WriteLine("It is nice to meet you :)");
             Console.WriteLine("I am learning to program\n");
@@ -19,22 +19,22 @@
 
             Console.WriteLine("The bread is ready.\nWho is it for?");
             string name = Console.ReadLine();
-            Console.WriteLine($"Noted: {name} got bread.\n");
+        Console.WriteLine($"Noted: {name} got bread.\n");
 
 
 
             //Level 4 "The name thing 3000"
             Console.WriteLine("What kind of thing are we talking aboudt?");
             // String a stores the name of the ting.
-            string a = Console.ReadLine(); 
-            Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
+            string a = Console.ReadLine();
+        Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
             //String b stores the descripsion of the thing
             string b = Console.ReadLine();
-            /*String c and d stores "of doom" text.*/
-            string c = "of Domm";
-            //String d stores the nummber
-            string d = "3000";
-            Console.WriteLine($"The {b} {a} {c} {d}!");
+        /*String c and d stores "of doom" text.*/
+     /*   string c = "of Domm";
+        //String d stores the nummber
+        string d = "3000";
+        Console.WriteLine($"The {b} {a} {c} {d}!");
             //Removed the extra "of" to correct the "of of" problem
             //I would rename the variable names so the descripe the information they are storing.
 
@@ -57,8 +57,8 @@
 
 
             Console.ReadLine();
+     */
 
-
-        }
     }
 }
+
